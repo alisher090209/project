@@ -507,3 +507,14 @@ body{
     text-align: center;
     margin-top: 4rem;
 }
+.abaout__us{
+    width: 100%;
+    padding: 4.8rem 0;
+    background-color: #008fa5;
+    text-align: center;
+}
+.abaout__us h2 {
+    color: #fff;
+    font-family: var(--ubuntu);
+    font-size: 3rem;
+}
